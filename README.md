@@ -1,1 +1,1 @@
-# -Desenvolupament-Web-en-Entorns-Servidor-GS2022-
+# Desenvolupament-Web-en-Entorns-Client-GS2022
