@@ -9,7 +9,7 @@ function letersOnly(str) {
     let result = "";
     let len = str.length;
 
-    for (let i = 0; i < len; i++) {
+    for (let i = 0; i < len; i++) {   
         let char = str.charAt(i);
         if (isLeter(char)) result += char;
     }
